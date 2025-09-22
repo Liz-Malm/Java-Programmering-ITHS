@@ -1,5 +1,5 @@
 package my_programs.lesson_03;
-public class MakeUnicorns{
+public class makeUnicorns{
     public static void main(String[] args) {
         
         Unicorn bengt = new Unicorn(32, "orange", "vibe", true, true);
