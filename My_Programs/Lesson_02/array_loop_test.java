@@ -1,3 +1,4 @@
+package my_programs.lesson_02;
 public class array_loop_test {
     public static void main(String[] args) {
        String[] list = {"Liz", "Anna", "Susanne", "Lars", "Karl"};

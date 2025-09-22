@@ -1,3 +1,4 @@
+package my_programs.lesson_02;
 public class play_With_Loops {
     public static void main(String[] args) {
        forLoop();
