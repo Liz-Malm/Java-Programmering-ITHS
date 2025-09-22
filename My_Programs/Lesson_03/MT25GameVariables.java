@@ -1,3 +1,4 @@
+package my_programs.lesson_03;
 import java.util.Scanner;
 
 public class MT25GameVariables{
